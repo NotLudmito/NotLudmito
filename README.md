@@ -1,30 +1,29 @@
-## Hi there 👋
-
-<!--
-**NotLudmito/NotLudmito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Santiago+better+known+as+Ludmito;I'm+20+years+old.;" alt="Typing SVG">
+    </a>
+  </h1>
+  <p>Welcome to my GitHub!<br/> I am currently learning more and more!. 🚀</p>
+  <div align="center"> I from Argentina 🇦🇷</p> 
+  <div align="center"> In Buenos Aires</p>
+   <div align="center"> ❤️</p>
+  
+<h2>⛏️ My social networks and what I learned all this time!</h2>
+<div>
+<p align="center">
+  <a href="https://www.youtube.com/@NotLudmito" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@NotLudmito"  /></a>
+<a href="https://www.tiktok.com/@NotLudmito" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@NotLudmito" /></a>
+<a href="https://linkedin.com/in/NotLudmito" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="NotLudmito"/></a>
+<a href = "mailto:notludmito@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@NotLudmito"  /></a>
+  </p>
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,discord,cloudflare,github,linux,gcp,java,lua,nodejs" />
   </a>
 </p>
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -40,3 +39,19 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+  <h2>📚 My status</h2>
+
+  🎧 Spotify Status
+<p>Look what I'm listening to right now!</p>
+<a href="https://open.spotify.com/user/316kjz5tcsz5mgtpucvfk7qmu2mm">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316kjz5tcsz5mgtpucvfk7qmu2mm" alt="Spotify recently played" width="600"  />
+  </a>
+<br/>
+<br/>
+
+
+🎮 Discord status
+<p>Look what I'm doing right now!</p>
+<ul>
+
+[![Discord](https://lanyard-profile-readme.vercel.app/api/982690186615980064?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/982690186615980064)
