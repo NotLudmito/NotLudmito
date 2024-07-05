@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,discord,cloudfare,github,linux,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,discord,cloudflare,github,linux,gcp,java,lua,nodejs)](https://skillicons.dev)
 
 <br>
 
