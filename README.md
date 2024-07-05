@@ -2,13 +2,25 @@
   <h1>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Santiago+better+known+as+Ludmito;I'm+20+years+old.;" alt="Typing SVG">
-    </a>
-  </h1>
-  <p>Welcome to my GitHub!<br/> I am currently learning more and more!. 🚀</p>
-  <div align="center"> I from Argentina 🇦🇷</p> 
-  <div align="center"> In Buenos Aires</p>
-   <div align="center"> ❤️</p>
+     </a>
+    
+<h2>Welcome to my GitHub!😃</h2>
+<!--Intro start-->
+
+<p align="center">
   
+🎓 Computer Engineer
+  
+💻 Since I was born I develop on my computer!
+
+📝 Ranks in the outline: Developer - Founder - Entrepreneur - Programmer - Freelance
+
+📍 I from for Buenos Aires - Argentina 🇦🇷
+
+<!--Intro end-->
+  </p>
+<br>
+
 <h2>⛏️ My social networks and what I learned all this time!</h2>
 <div>
 <p align="center">
@@ -50,7 +62,7 @@
 <br/>
 
 
-🎮 Discord status
+🎮 Discord Status
 <p>Look what I'm doing right now!</p>
 <ul>
 
