@@ -15,6 +15,8 @@
 
 📍 I from for Buenos Aires - Argentina 🇦🇷
 
+❤ I am passionate about Minecraft and I work hard to dedicate myself to contributing to the game
+
 <!--Intro end-->
   </p>
 <br>
