@@ -13,8 +13,6 @@
   
 💻 Since I was born I develop on my computer!
 
-📝 Ranks in the outline: Developer - Founder - Entrepreneur - Programmer - Freelance
-
 📍 I from for Buenos Aires - Argentina 🇦🇷
 
 <!--Intro end-->
